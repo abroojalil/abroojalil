@@ -43,7 +43,7 @@ Taking one step at a time to be more mindful of my journey. You can find me here
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
 
 <a href="https://github.com/abroojalil/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abroojalil&theme=buefy&show_icons=false&locale=en&layout=compact" alt="AbrooJalil" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abroojalil&theme=buefy&show_icons=true&locale=en&layout=compact" alt="AbrooJalil" />
 </a>
 
 <a href="https://github.com/abroojalil/convoychat">
