@@ -18,7 +18,7 @@ Taking one step at a time to be more mindful of my journey. You can find me here
 
 
 <!-- Links to your social media accounts -->
-[2]: https://www.linkedin.com/in/abroojalil/
+[2]: https://www.linkedin.com/in/aabroo-jalil/
 
 - 🌱 I’m currently learning everything about **Fullstack Development & Computer vision**
 - 💬 I’m a javascript Developer that focuses on front end frameworks such as React , NextJs and Vuejs , I have a passion for Design Systems , Web Accessibility and Serverless Technologies such as AWS and Google Cloud.
