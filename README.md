@@ -4,7 +4,7 @@
 
 ![](https://komarev.com/ghpvc/?username=abroojalil&color=yellow&style=flat-square)
 ## Hey there, I'm Abroo!<img src="https://github.com/EsratMaria/EsratMaria/blob/master/header/hello.gif">
-### I'm a frontend developer and a Data Science Enthusiast!🌷🌟
+### I'm a Frontend Developer and a Data Science Enthusiast!🌷🌟
 
 Taking one step at a time to be more mindful of my journey. You can find me here on [![LinkedIn][2.2]][2] to know more about me and my works.
 
