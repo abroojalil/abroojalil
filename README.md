@@ -34,6 +34,8 @@ Taking one step at a time to be more mindful of my journey. You can find me here
 - 📫 How to reach me: reach me via my **Email**
 - 💻 Goals: Learn more technological stacks and improve my overall skills
 - 🤗 Find me on [**Kaggle**](https://www.kaggle.com/abroojalil) 🙌🏽
+- 💻 My Portfolio [**Portfolio**](https://tinyurl.com/abroojalil) 🙌🏽
+- 💬 My Medium Profile [**Medium**](https://medium.com/@aabroo.jalil) 🙌🏽
   
 </details>
 
