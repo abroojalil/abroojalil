@@ -1,5 +1,15 @@
 ### Hi Folks! 👋
 
+
+
+
+<a href="https://github.com/abroojalil/github-readme-stats">
+  <img height=20 align="right" src="https://komarev.com/ghpvc/?username=abroojalil" />
+</a>
+
+
+
+
 <!--
 **abroojalil/abroojalil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,14 +28,17 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on As an experienced professional, I am driven by enthusiasm, self-motivation, and a strong sense of responsibility. I pride myself on being reliable and dedicated, consistently delivering high-quality work. I thrive in challenging situations, demonstrating adaptability and a mature approach to problem-solving.
 - 🌱 I’m currently learning NextJs.
 - 👯 I’m looking to collaborate on any open source JS projects.
+
+
+<a href="https://github.com/abroojalil/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=abroojalil" />
+</a>
+<a href="https://github.com/abroojalil/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abroojalil&layout=compact&langs_count=8&card_width=320" />
+</a>
   
 
-  
 
-![Aabroo's GitHub stats](https://github-readme-stats.vercel.app/api?username=abroojalil&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abroojalil&hide_progress=true)
-![](https://komarev.com/ghpvc/?username=abroojalil)
 
 
 
