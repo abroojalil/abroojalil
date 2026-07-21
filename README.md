@@ -1,8 +1,8 @@
 # Abroo Jalil
 
-**Technical Lead, AI/ML Practice** at [Folio3](https://www.folio3.com/) · Doha, Qatar · **8+ years** in software
+**Technical Lead, AI/ML Practice** at [Folio3](https://www.folio3.com/) | Doha, Qatar | **8+ years** in software
 
-I lead a team of **5 engineers** shipping cloud-native GenAI on Azure — multi-agent systems, RAG pipelines, and production ML that deliver measurable business outcomes.
+I lead a team of **5 engineers** shipping cloud-native GenAI on Azure -- multi-agent systems, RAG pipelines, and production ML that deliver measurable business outcomes.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-abroojalil.github.io-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://abroojalil.github.io/abroo-portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-aabroo--jalil-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aabroo-jalil/)
@@ -49,15 +49,15 @@ I lead a team of **5 engineers** shipping cloud-native GenAI on Azure — multi-
   <img src="https://skillicons.dev/icons?i=python,fastapi,ts,react,nextjs,docker,azure,git,github,vscode&perline=7" alt="Tech stack" />
 </p>
 
-**AI / ML:** RAG · LangChain · Azure OpenAI · GPT-4 / 4o-mini · Gemini · Qdrant · Whisper · YOLOv5 · Azure Content Safety
+**AI / ML:** RAG | LangChain | Azure OpenAI | GPT-4 / 4o-mini | Gemini | Qdrant | Whisper | YOLOv5 | Azure Content Safety
 
-**Engineering:** Python · FastAPI · TypeScript · React / Next.js · Azure Functions · Docker
+**Engineering:** Python | FastAPI | TypeScript | React / Next.js | Azure Functions | Docker
 
 ---
 
 ### Experience arc
 
-- **Technical Lead, AI/ML Practice** — Folio3, Doha: lead 5 engineers on multi-agent AI, RAG, and GenAI on Azure
+- **Technical Lead, AI/ML Practice** -- Folio3, Doha: lead 5 engineers on multi-agent AI, RAG, and GenAI on Azure
 - Design and ship computer vision and speech pipelines used in production
 - Mentor engineers and own end-to-end GenAI architecture decisions
 
@@ -65,8 +65,8 @@ I lead a team of **5 engineers** shipping cloud-native GenAI on Azure — multi-
 
 ### Education
 
-- **B.S. Computer Science** — NED University
-- **Machine Learning** — Andrew Ng (Coursera)
+- **B.S. Computer Science** -- NED University
+- **Machine Learning** -- Andrew Ng (Coursera)
 
 ---
 
