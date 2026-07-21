@@ -1,75 +1,80 @@
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Sriracha&size=32&duration=4500&color=61D9FA&center=true&width=650&lines=Abroo+Jalil;Technical+Lead+%2F+Lead+Software+Engineer;AI%2FML+Practice+%40+Folio3;Building+multi-agent+%26+RAG+systems" alt="Abroo Jalil - Technical Lead, AI/ML Practice"></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Sriracha&size=30&duration=4000&color=61D9FA&center=true&width=700&lines=Abroo+Jalil;Technical+Lead+%7C+AI%2FML+Practice;Building+production+GenAI+systems" alt="Abroo Jalil" />
+  </a>
 </div>
 
-![](https://komarev.com/ghpvc/?username=abroojalil&color=yellow&style=flat-square)
-
-## Hey there, I'm Abroo
-
-**Technical Lead / Lead Software Engineer — AI/ML Practice** at [Folio3](https://www.folio3.com/) (2017 → present) · based in **Doha, Qatar**
-
-I lead a team of **5 engineers** shipping cloud-native GenAI on Azure — multi-agent systems, RAG pipelines, and production ML. **8+ years** building and delivering software.
-
-[Portfolio](https://abroojalil.github.io/abroo-portfolio/) · [Portfolio repo](https://github.com/abroojalil/abroo-portfolio) · [LinkedIn](https://www.linkedin.com/in/aabroo-jalil/) · [Email](mailto:aabroo.jalil@gmail.com)
-
-<details open><summary><b>About</b></summary>
-
 <br>
 
-- Focused on **multi-agent AI systems**, **RAG pipelines**, and **cloud-native GenAI on Azure**
-- Lead impact: **−45%** manual inspection via computer vision · **+40%** speech pipeline throughput
-- Open to connecting on GenAI architecture, RAG, and applied ML in production
-- Reach me: **aabroo.jalil@gmail.com**
+# Abroo Jalil
 
-</details>
+**Technical Lead, AI/ML Practice** at [Folio3](https://www.folio3.com/) · Doha, Qatar · **8+ years** in software
 
-<details open><summary><b>Selected work</b></summary>
+I lead a team of **5 engineers** shipping cloud-native GenAI on Azure — multi-agent systems, RAG pipelines, and production ML that deliver measurable business outcomes.
 
-<br>
+**[Portfolio](https://abroojalil.github.io/abroo-portfolio/)** · **[LinkedIn](https://www.linkedin.com/in/aabroo-jalil/)** · **[Email](mailto:aabroo.jalil@gmail.com)**
 
-| Project | What it does |
+---
+
+### Currently
+
+- Leading design and delivery of **multi-agent AI** and **RAG** systems on Azure
+- Shipping computer vision and speech pipelines used in production
+- Mentoring engineers and owning end-to-end GenAI architecture decisions
+
+### Impact highlights
+
+- **~45%** reduction in manual inspection via computer vision (YOLOv5)
+- **+40%** throughput improvement on speech-to-text + summarization pipelines
+
+---
+
+### Featured work
+
+| Project | Focus |
 | --- | --- |
+| [Portfolio site](https://abroojalil.github.io/abroo-portfolio/) | Projects, experience, and contact |
 | Supervisor-pattern conversational AI | Multi-agent orchestration for guided conversations |
 | Imprint.live (RAG) | Retrieval-augmented generation pipelines |
-| Solar defect detection | Computer vision with **YOLOv5** |
-| Whisper summarization | Speech-to-text + summarization pipelines |
-| Multimodal text × image gen | Combined language and image generation |
+| Solar defect detection | Computer vision with YOLOv5 |
+| Whisper summarization | Speech-to-text + summarization |
+| Multimodal generation | Combined language and image generation |
 | Azure Content Safety | Content moderation on Azure |
 
-</details>
+---
 
-<details open><summary><b>Stack</b></summary>
+### Skills
 
-<br>
+**AI / ML** — RAG · LangChain · Azure OpenAI · GPT-4 / 4o-mini · Gemini · Qdrant · Whisper · YOLOv5 · Azure Content Safety
 
-**AI / ML:** RAG · LangChain · Azure OpenAI · GPT-4 / 4o-mini · Gemini · Qdrant · Whisper · YOLOv5 · Azure Content Safety
-
-**Engineering:** Python · FastAPI · TypeScript · React / Next.js · Azure Functions · Docker
+**Engineering** — Python · FastAPI · TypeScript · React / Next.js · Azure Functions · Docker
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,ts,react,nextjs,docker,azure,git,github,vscode&perline=7" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,ts,react,nextjs,docker,azure,git,github,vscode&perline=7" alt="Tech stack" />
 </p>
 
-</details>
+---
 
-<details open><summary><b>Education</b></summary>
-
-<br>
+### Education
 
 - **B.S. Computer Science** — NED University
 - **Machine Learning** — Andrew Ng (Coursera)
 
-</details>
+---
 
-<details open><summary><b>GitHub Stats</b></summary>
+### GitHub Stats
 
-<br>
+<p align="center">
+  <img width="420" height="165" src="https://github-readme-stats.vercel.app/api?username=abroojalil&show_icons=true&theme=tokyonight&hide_border=true&hide_title=false&cache_seconds=86400" alt="Abroo Jalil GitHub stats" />
+  <img width="320" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abroojalil&layout=compact&theme=tokyonight&hide_border=true&hide_title=false&cache_seconds=86400" alt="Top languages" />
+</p>
 
-<a href="https://github.com/abroojalil">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abroojalil&theme=buefy&show_icons=true&locale=en&layout=compact" alt="Top languages" />
-</a>
-<a href="https://github.com/abroojalil">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abroojalil&theme=buefy&show_icons=true" alt="GitHub stats" />
-</a>
+---
 
-</details>
+### Contact
+
+Open to conversations on GenAI architecture, RAG, and applied ML in production.
+
+**Email:** [aabroo.jalil@gmail.com](mailto:aabroo.jalil@gmail.com)  
+**LinkedIn:** [linkedin.com/in/aabroo-jalil](https://www.linkedin.com/in/aabroo-jalil/)  
+**Portfolio:** [abroojalil.github.io/abroo-portfolio](https://abroojalil.github.io/abroo-portfolio/)
