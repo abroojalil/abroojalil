@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Sriracha&size=32&duration=4500&color=61D9FA&center=true&width=650&lines=Abroo+Jalil;Technical+Lead+%2F+Lead+Software+Engineer;AI%2FML+Practice+%40+Folio3;Building+multi-agent+%26+RAG+systems" alt="Abroo Jalil — Technical Lead, AI/ML Practice"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Sriracha&size=32&duration=4500&color=61D9FA&center=true&width=650&lines=Abroo+Jalil;Technical+Lead+%2F+Lead+Software+Engineer;AI%2FML+Practice+%40+Folio3;Building+multi-agent+%26+RAG+systems" alt="Abroo Jalil - Technical Lead, AI/ML Practice"></a>
 </div>
 
 ![](https://komarev.com/ghpvc/?username=abroojalil&color=yellow&style=flat-square)
@@ -30,7 +30,7 @@ I lead a team of **5 engineers** shipping cloud-native GenAI on Azure — multi-
 | Project | What it does |
 | --- | --- |
 | Supervisor-pattern conversational AI | Multi-agent orchestration for guided conversations |
-| [Imprint.live](https://github.com/abroojalil) (RAG) | Retrieval-augmented generation pipelines |
+| Imprint.live (RAG) | Retrieval-augmented generation pipelines |
 | Solar defect detection | Computer vision with **YOLOv5** |
 | Whisper summarization | Speech-to-text + summarization pipelines |
 | Multimodal text × image gen | Combined language and image generation |
