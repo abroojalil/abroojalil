@@ -1,75 +1,75 @@
-
-
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Sriracha&size=36&duration=4500&color=61D9FA&center=true&width=450&lines=My+name+is+Abroo+Jalil!;Front-end+developer;aAnd+a+datascience+enthusiast..!" alt="Abroo Jalil, front-end developer and a data science enthusiast"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Sriracha&size=32&duration=4500&color=61D9FA&center=true&width=650&lines=Abroo+Jalil;Technical+Lead+%2F+Lead+Software+Engineer;AI%2FML+Practice+%40+Folio3;Building+multi-agent+%26+RAG+systems" alt="Abroo Jalil — Technical Lead, AI/ML Practice"></a>
 </div>
 
 ![](https://komarev.com/ghpvc/?username=abroojalil&color=yellow&style=flat-square)
-## Hey there, I'm Abroo!<img src="https://github.com/EsratMaria/EsratMaria/blob/master/header/hello.gif">
-### I'm a Frontend Developer and a Data Science Enthusiast!🌷🌟
 
-Taking one step at a time to be more mindful of my journey. You can find me here on [![LinkedIn][2.2]][2] to know more about me and my works.
+## Hey there, I'm Abroo
 
-<p align="center">
-  <img style="float: center;" src="https://camo.githubusercontent.com/ec0df7b334d15078e980be8f26f35f1bd6f004eaa4a121db42fed361360c1817/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6e516a7057614f4e386e68723231764e572f67697068792e676966" width="85" height="82"></br>
-<span style="color:#ff6666">I love meeting and knowing new people. Lets connect and discuss ideas ~ 🤓</span></img>
-</p>
+**Technical Lead / Lead Software Engineer — AI/ML Practice** at [Folio3](https://www.folio3.com/) (2017 → present) · based in **Doha, Qatar**
 
-<!-- Icons -->
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+I lead a team of **5 engineers** shipping cloud-native GenAI on Azure — multi-agent systems, RAG pipelines, and production ML. **8+ years** building and delivering software.
 
+[Portfolio](https://abroojalil.github.io/abroo-portfolio/) · [Portfolio repo](https://github.com/abroojalil/abroo-portfolio) · [LinkedIn](https://www.linkedin.com/in/aabroo-jalil/) · [Email](mailto:aabroo.jalil@gmail.com)
 
-<!-- Links to your social media accounts -->
-[2]: https://www.linkedin.com/in/aabroo-jalil/
+<details open><summary><b>About</b></summary>
 
-<details open><summary><b>My Introduction </b></summary>
-
-</br>
-
-- 🌱 I’m currently learning everything about **Fullstack Development & Computer vision**
-- 💬 I’m a javascript Developer that focuses on front end frameworks such as React , NextJs and Vuejs , I have a passion for Design Systems , Web Accessibility and Serverless Technologies such as AWS and Google Cloud.
-- 🔭 I’m currently working on As an experienced professional, I am driven by enthusiasm, self-motivation, and a strong sense of responsibility. I pride myself on being reliable and dedicated, consistently delivering high-quality work. I thrive in challenging situations, demonstrating adaptability and a mature approach to problem-solving.
-- 👯 I’m looking to collaborate on any open source **JS projects**.
-- 💬 Ask me about anything if my works featured in my repositories interest you
-- 📫 How to reach me: reach me via my **Email**
-- 💻 Goals: Learn more technological stacks and improve my overall skills
-- 🤗 Find me on [**Kaggle**](https://www.kaggle.com/abroojalil) 🙌🏽
-- 💻 My Portfolio [**Portfolio**](https://tinyurl.com/abroojalil) 🙌🏽
-- 💬 My Medium Profile [**Medium**](https://medium.com/@aabroo.jalil) 🙌🏽
-  
-</details>
-
-</br>
-</br>
- 
-<details open><summary><b>My GitHub Stats </b></summary>
-
-
-<a href="https://github.com/abroojalil/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abroojalil&theme=buefy&show_icons=true&locale=en&layout=compact" alt="AbrooJalil" />
-</a>
-
-<a href="https://github.com/abroojalil/convoychat">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=abroojalil&theme=buefy&show_icons=true" alt="Aabroo Jalil's Github Stats" />
-</a>
-</details>
-
-
-</br>
-</br>
-
-<details open><summary><b>Languages and Tools I've Used</b></summary>
 <br>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,daisyui,git,github,netlify,vscode,aws&perline=7" />
-</p>
-<br><br>
+
+- Focused on **multi-agent AI systems**, **RAG pipelines**, and **cloud-native GenAI on Azure**
+- Lead impact: **−45%** manual inspection via computer vision · **+40%** speech pipeline throughput
+- Open to connecting on GenAI architecture, RAG, and applied ML in production
+- Reach me: **aabroo.jalil@gmail.com**
 
 </details>
 
+<details open><summary><b>Selected work</b></summary>
 
+<br>
 
+| Project | What it does |
+| --- | --- |
+| Supervisor-pattern conversational AI | Multi-agent orchestration for guided conversations |
+| [Imprint.live](https://github.com/abroojalil) (RAG) | Retrieval-augmented generation pipelines |
+| Solar defect detection | Computer vision with **YOLOv5** |
+| Whisper summarization | Speech-to-text + summarization pipelines |
+| Multimodal text × image gen | Combined language and image generation |
+| Azure Content Safety | Content moderation on Azure |
 
+</details>
 
+<details open><summary><b>Stack</b></summary>
 
+<br>
 
+**AI / ML:** RAG · LangChain · Azure OpenAI · GPT-4 / 4o-mini · Gemini · Qdrant · Whisper · YOLOv5 · Azure Content Safety
+
+**Engineering:** Python · FastAPI · TypeScript · React / Next.js · Azure Functions · Docker
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,ts,react,nextjs,docker,azure,git,github,vscode&perline=7" alt="Tech stack icons" />
+</p>
+
+</details>
+
+<details open><summary><b>Education</b></summary>
+
+<br>
+
+- **B.S. Computer Science** — NED University
+- **Machine Learning** — Andrew Ng (Coursera)
+
+</details>
+
+<details open><summary><b>GitHub Stats</b></summary>
+
+<br>
+
+<a href="https://github.com/abroojalil">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abroojalil&theme=buefy&show_icons=true&locale=en&layout=compact" alt="Top languages" />
+</a>
+<a href="https://github.com/abroojalil">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abroojalil&theme=buefy&show_icons=true" alt="GitHub stats" />
+</a>
+
+</details>
